@@ -1,6 +1,8 @@
-# Project Presentation Guide
+# Project Presentation Slides Guide
 
-## What should you add to the slides? I am sharing my ideas; feel free to be creative
+## What should you add to the slides? 
+
+- I am sharing my ideas; feel free to be creative. [Here you can find a demo slide](https://docs.google.com/presentation/d/1Zx5qwbh34cGoOPwH9ZwSKMhgMkF64hMbyM_s4PBxOf4/edit?usp=sharing)
 
 1. Title Slide: 
     - [ ]  Project Title,
