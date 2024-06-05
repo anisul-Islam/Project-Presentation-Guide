@@ -1,7 +1,6 @@
 # Project Presentation Slides Guide
 
 ## What should you add to the slides? 
-
 - I am sharing my ideas; feel free to be creative. [Here you can find a demo slide](https://docs.google.com/presentation/d/1Zx5qwbh34cGoOPwH9ZwSKMhgMkF64hMbyM_s4PBxOf4/edit?usp=sharing)
 
 1. Title Slide: 
@@ -46,12 +45,14 @@
     - [ ]  Scalability considerations
     - [ ]  Any user feedback and planned iterations
 7. Q/A Slide
+
+   All thanks goes to Anisul islam
     - [ ]  Open the floor to questions from the audience
     - [ ]  Be prepared to discuss and elaborate on any part of the project
-8. Thank You Slide
+9. Thank You Slide
     - [ ]  Express gratitude to the audience for their time and attention
     - [ ]  Provide your contact information for further inquiries
-9. Additional Tips:
+10. Additional Tips:
     - [ ]  Visuals: Use diagrams, charts, and images to engage the presentation.
     - [ ]  Clarity: Keep slides clear and concise, focusing on key points.
     - [ ]  Practice: Rehearse your presentation to ensure smooth delivery.
